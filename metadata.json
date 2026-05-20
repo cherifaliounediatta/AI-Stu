@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Developer Sandbox",
+  "description": "An interactive workspace dashboard, scratchpad, and server-side Gemini API sandbox for developing and testing Google AI Studio applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
